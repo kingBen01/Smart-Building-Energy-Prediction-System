@@ -1,2 +1,27 @@
-# Smart-Building-Energy-Prediction-System
-a working prototype that allows scenario testing (e.g., occupancy or temperature changes) and outputs predicted energy consumption instantly.  It shows useful for demand planning, energy cost optimization and building efficiency analysis.The goal is to improve short-term energy demand forecasting and identify cost and load variation patterns,
+# ⚡ Energy Intelligence Dashboard
+
+## Overview
+This project is a machine learning-based energy forecasting system that predicts building-level energy consumption using structural, behavioral, and environmental inputs.
+
+It also provides cost estimation, scenario simulation, and batch prediction capabilities for real-world decision support.
+
+---
+
+## 🚀 Features
+
+- Building-level energy demand prediction
+- Cost estimation based on energy usage
+- What-if scenario simulation (occupants, usage changes)
+- Batch CSV prediction for multiple buildings
+- Interactive Streamlit dashboard
+
+---
+
+## 🧠 Inputs Used
+
+- Square Footage
+- Number of Occupants
+- Appliances Used
+- Average Temperature
+- Building Type
+- Day of Week
